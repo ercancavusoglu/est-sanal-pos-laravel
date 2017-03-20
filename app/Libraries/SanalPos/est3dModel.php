@@ -185,7 +185,7 @@ class est3dModel
         "<Name></Name>" . "<Street1></Street1>" . "<Street2></Street2>" . "<Street3></Street3>" . "<City></City>" .
         "<StateProv></StateProv>" . "<PostalCode></PostalCode>" . "<Country></Country>" .
         "</ShipTo>" .
-        "<Extra><SIPNO>{OID}</SIPNO></Extra>" .
+        "<Extra></Extra>" .
         "</CC5Request>";
 
         $request = str_replace("{NAME}", $fields["name"], $request);
