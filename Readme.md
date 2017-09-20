@@ -2,7 +2,7 @@
 
 Laravel tabanlı yazdığım est tabanlı sanal pos kütüphanesi. 3D Secure modüllü olarak hazırlanmıştır.
 
-Entegrasyon veya destek için issue açabilir, `ercancavusoglu@yandex.com.tr` adresinden veya [@devredisibirak](http://twitter.com/devredisibirak) twitter hesabımdan bana ulaşabilirsiniz.
+Entegrasyon veya destek için issue açabilir, [@devredisibirak](http://twitter.com/devredisibirak) twitter hesabımdan bana ulaşabilirsiniz.
 
 ## Kurulum
 
